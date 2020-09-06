@@ -21,7 +21,7 @@ git clone https://github.com/mayaracastro98/color_flipper.git
 
 ## Commit messages
 
-* **FEATUE**: Add new feature or some major changes in core functionalities
+* **FEATURE**: Add new feature or some major changes in core functionalities
 * **NIT**: Minor changes that probably won't affect any functionalities
 * **FIX**: Bugfixes
 
